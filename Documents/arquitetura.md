@@ -22,7 +22,7 @@ O documento está segmento em Representação de Arquitetura, Metas e Restriçõ
 
 O MVC é um padrão de arquitetura de software, onde separa sua aplicação em três camadas, sendo elas *model*, *view* e *controller*. 
 
-Nesse projeto a camada de interação do usuário (view), é a que faz a exibição dos dados, sendo o [React](https://pt-br.reactjs.org/docs/getting-started.html) e [React Native](https://reactnative.dev/docs/getting-started). Ambas tecnologias são bibliotecas do JavaScript, onde são responsável pela visualização web e mobile, respectivamente.
+Nesse projeto a camada de interação do usuário (*View*), é a que faz a exibição dos dados, sendo o [React](https://pt-br.reactjs.org/docs/getting-started.html) e [React Native](https://reactnative.dev/docs/getting-started). Ambas tecnologias são bibliotecas do JavaScript, onde são responsável pela visualização web e mobile, respectivamente.
 
 O *Model* é camada de manipulação dos dados, está camada é responsável pela leitura e escrita dos dados, neste caso foi utilizado o banco de dados [MongoDB Community Server](https://www.mongodb.com/try/download/community).
 
