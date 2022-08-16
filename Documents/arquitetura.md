@@ -3,7 +3,7 @@
 | Versão  | Data     | Autor       | Descrição                   |
 |---------|----------|-------------|-----------------------------|
 | 0.1     |16/08/2022| @IanoMaciel | Estrutura inicial e Construção do tópico desenvolvimento do tópico Introdutório |
-| 0.2     |17/08/2022| @IanoMaciel | Esquemático da Arquitetura |
+| 0.2     |17/08/2022| @IanoMaciel | Construção do tópico Esquemático da Arquitetura |
 
 # Introdução 
 ## Objetivo 
