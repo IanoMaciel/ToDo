@@ -2,7 +2,8 @@
 
 | Versão  | Data     | Autor       | Descrição                   |
 |---------|----------|-------------|-----------------------------|
-| 0.1     |16/08/2022| @IanoMaciel | Estrutura inicial e Construção do tópico desenvolvimento do tópico Introdutório           |
+| 0.1     |16/08/2022| @IanoMaciel | Estrutura inicial e Construção do tópico desenvolvimento do tópico Introdutório |
+| 0.2     |17/08/2022| @IanoMaciel | Esquemático da Arquitetura |
 
 # Introdução 
 ## Objetivo 
@@ -18,11 +19,14 @@ O documento está segmento em Representação de Arquitetura, Metas e Restriçõ
 ## Padrão Arquitetural 
 
 ![mvc_arquitetura](https://user-images.githubusercontent.com/71051791/184946453-46ad1447-d4a6-4df1-9f37-3d73f62a7a2a.png)
-O MVC é um padrão de arquitetura de software, onde separa sua aplicação em três camadas, sendo elas model, view e controller. Nesse projeto a camada de interação do usuário (view), é a que faz a exibição dos dados, sendo ela por meio do framework react.js e next.js; a camada de manipulação dos dados (model), responsável pela leitura e escrita dos dados no banco de dados, nesse caso postgres usando a ferramenta sequelize, e também suas validações e a camada de controle (controller), responsável por receber todas as requisições do usuário, controlando qual model usar e qual view será mostrado ao usuário. Essa divisão em camadas é realizada para facilitar a resolução de um problema maior.
 
+O MVC é um padrão de arquitetura de software, onde separa sua aplicação em três camadas, sendo elas *model*, *view* e *controller*. 
 
+Nesse projeto a camada de interação do usuário (view), é a que faz a exibição dos dados, sendo o [React](https://pt-br.reactjs.org/docs/getting-started.html) e [React Native](https://reactnative.dev/docs/getting-started). Ambas tecnologias são bibliotecas do JavaScript, onde são responsável pela visualização web e mobile, respectivamente.
 
+O *Model* é camada de manipulação dos dados, está camada é responsável pela leitura e escrita dos dados, neste caso foi utilizado o banco de dados [MongoDB Community Server](https://www.mongodb.com/try/download/community).
 
+A camada de *Controller* funciona como intermediário, ou seja, coordenar o envio de requisições feitas entre a visão e o modelo. Para isso, será o utilizado o [NodeJs](https://nodejs.org/en/).
 
 # Metas e Restrições da Arquitetura 
 
