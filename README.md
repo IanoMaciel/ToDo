@@ -1,7 +1,7 @@
 # ToDo
 
 ## Sobre o repositório
-**ToDo** é uma ferramenta que busca auxiliar os usuários com as tarefas cotidianas, com ele, será permitido que você agende uma nova tarefa além de notificar tarefas atrasadas. Além da aplicação web, ele contará com uma aplicação *mobile* onde será permitido a sincronização de atividades com o *smathphone* do usuário. 
+**ToDo** é uma ferramenta que busca auxiliar as tarefas cotidiana dos uauárioos, com essa ferramenta será permitido que você agende uma nova tarefa além de notificar tarefas atrasadas. Além da aplicação web, ele contará com uma aplicação *mobile* onde será permitido a sincronização de atividades com o *smathphone* do usuário. 
 
 ## layout
 
