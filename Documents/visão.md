@@ -32,15 +32,15 @@ Um pouco sobre o projeto **ToDo**. É uma ferramenta que busca auxiliar os usuá
 
 | ID | Descrição | Prioridade |
 |----|-----------|------------|
-| RF01 | O Sistema deve permitir ao usuário criar novas tarefas |
-| RF02 | O Sistema deve permitir ao usuário atualizar tarefa  |
-| RF03 | O Sistema deve permitir ao usuário excluir tarefas |
-| RF04 | O Sistema deve permitir ao usuário listar todas as informações |
-| RF05 | O Sistema deve permitir ao usuário listar tarefas do dia |
-| RF06 | O Sistema deve permitir ao usuário listar tarefas da semana |
-| RF07 | O Sistema deve permitir ao usuário listar tarefas do mês |
-| RF08 | O Sistema deve permitir ao usuário listar tarefas do Ano |
-| RF09 | O sistema deve permitir ao usuário listar tarefas atrasadas |
+| RF01 | O Sistema deve permitir ao usuário criar novas tarefas | Essencial |
+| RF02 | O Sistema deve permitir ao usuário atualizar tarefa  | Essencial |
+| RF03 | O Sistema deve permitir ao usuário excluir tarefas | Essencial |
+| RF04 | O Sistema deve permitir ao usuário listar todas as informações | Essencial |
+| RF05 | O Sistema deve permitir ao usuário listar tarefas do dia | Essencial |
+| RF06 | O Sistema deve permitir ao usuário listar tarefas da semana | Essencial |
+| RF07 | O Sistema deve permitir ao usuário listar tarefas do mês | Essencial |
+| RF08 | O Sistema deve permitir ao usuário listar tarefas do Ano | Essencial |
+| RF09 | O sistema deve permitir ao usuário listar tarefas atrasadas | Essencial |n 
 
 ## 3.1 Requisitos Funcionais
 
