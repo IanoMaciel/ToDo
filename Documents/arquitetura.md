@@ -2,8 +2,9 @@
 
 | Versão  | Data     | Autor       | Descrição                   |
 |---------|----------|-------------|-----------------------------|
-| 0.1     |16/08/2022| @IanoMaciel | Estrutura inicial e Construção do tópico desenvolvimento do tópico Introdutório |
-| 0.2     |17/08/2022| @IanoMaciel | Construção do tópico 5 Esquemático da Arquitetura |
+| 0.1     |16/08/2022| @IanoMaciel | Estrutura inicial e Construção do tópico desenvolvimento do tópico **Introdutório** |
+| 0.2     |17/08/2022| @IanoMaciel | Construção do tópico **Esquemático da Arquitetura** |
+| 0.3     |18/08/2022| @IanoMaciel | Construção do subtópico **Tecnologias** |
 
 # Introdução 
 ## Objetivo 
@@ -29,6 +30,15 @@ O *Model* é camada de manipulação dos dados, está camada é responsável pel
 A camada de *Controller* funciona como intermediário, ou seja, coordenar o envio de requisições feitas entre a visão e o modelo. Para isso, será o utilizado o [NodeJs](https://nodejs.org/en/).
 
 ## Tecnologias 
+| Tecnologias  | Descrição |
+|--------------|-----------|
+| React        | biblioteca do JavaScript para criação de interfaces de usuário em páginas web. | 
+| React Native | é uma biblioteca Javascript criada pelo Facebook. É usada para desenvolver aplicativos para os sistemas Android e iOS de forma nativa. |
+| Expo         | é uma estrutura/plataforma para aplicações universais react. É um conjunto de ferramentas e serviços construídos em torno de plataformas nativas (react native) que ajudam você a desenvolver, construir, implantar e rapidamente iterar em aplicativos iOS, Android e web a partir da mesma base de código JavaScript/TypeScript. |
+| NodeJs       | Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web. |
+| Node Version Management | é uma ferramenta utilizada para versionamento do NodeJs |
+| JavaScript   | Em conjunto com o HTML e CSS para o desenvolvimento front |
+| MongoDB Community Server | é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++. Classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos semelhantes a JSON com esquemas. |
 
 # Metas e Restrições da Arquitetura 
 
