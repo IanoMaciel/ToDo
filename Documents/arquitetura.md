@@ -1,9 +1,9 @@
-# Histório de versões
+# Histórico de ver sões
 
 | Versão  | Data     | Autor       | Descrição                   |
 |---------|----------|-------------|-----------------------------|
 | 0.1     |16/08/2022| @IanoMaciel | Estrutura inicial e Construção do tópico desenvolvimento do tópico Introdutório |
-| 0.2     |17/08/2022| @IanoMaciel | Construção do tópico Esquemático da Arquitetura |
+| 0.2     |17/08/2022| @IanoMaciel | Construção do tópico 5 Esquemático da Arquitetura |
 
 # Introdução 
 ## Objetivo 
@@ -27,6 +27,8 @@ Nesse projeto a camada de interação do usuário (*View*), é a que faz a exibi
 O *Model* é camada de manipulação dos dados, está camada é responsável pela leitura e escrita dos dados, neste caso foi utilizado o banco de dados [MongoDB Community Server](https://www.mongodb.com/try/download/community).
 
 A camada de *Controller* funciona como intermediário, ou seja, coordenar o envio de requisições feitas entre a visão e o modelo. Para isso, será o utilizado o [NodeJs](https://nodejs.org/en/).
+
+## Tecnologias 
 
 # Metas e Restrições da Arquitetura 
 
