@@ -30,6 +30,8 @@ Um pouco sobre o projeto **ToDo**. É uma ferramenta que busca auxiliar os usuá
 
 # 3. Requisitos
 
+## 3.1 Requisitos Funcionais
+
 | ID | Descrição | Prioridade |
 |----|-----------|------------|
 | RF01 | O Sistema deve permitir ao usuário criar novas tarefas | Essencial |
@@ -40,11 +42,20 @@ Um pouco sobre o projeto **ToDo**. É uma ferramenta que busca auxiliar os usuá
 | RF06 | O Sistema deve permitir ao usuário listar tarefas da semana | Essencial |
 | RF07 | O Sistema deve permitir ao usuário listar tarefas do mês | Essencial |
 | RF08 | O Sistema deve permitir ao usuário listar tarefas do Ano | Essencial |
-| RF09 | O sistema deve permitir ao usuário listar tarefas atrasadas | Essencial |n 
-
-## 3.1 Requisitos Funcionais
+| RF09 | O sistema deve permitir ao usuário listar tarefas atrasadas | Essencial |
 
 ## 3.2 Requisitos Não Funcionais
+
+| ID | Descrição | Prioridade | 
+|----|-----------|------------|
+| RNF01 | Os dados serão gravados no MongoDb. | Segurança |
+| RNF02 | O sistema será desenvolvido para web e mobile. | Interoperabilidade |
+| RNF03 | O sistema deve utilizar a linguagem de progtamação JavaScript em conjunto como suas bibliotecas React e React Native e auxilio do Expo. | Portabilidade |
+| RNF04 | O sistema deve dispor de design responsivo. | Usabilidade | 
+| RNF05 | A interface em ambos sistemas será de fácil manipulação | Usabilidade | 
+| RNF06 | O sistema deve utilizar o padrão UML 2.0 para a documentação. | Padrões |
+
+
 
 # 4. Regras de Negócio
 
