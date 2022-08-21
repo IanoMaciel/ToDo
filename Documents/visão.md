@@ -1,7 +1,9 @@
 # Histórico de Versões
-| Versão  | Data     | Autor       | Descrição                   |
-|---------|----------|-------------|-----------------------------|
-| 1.0     |19/08/2022| @IanoMaciel | Criação do documento de visão |
+| Versão  | Data       | Autor       | Descrição                   |
+|---------|------------|-------------|-----------------------------|
+| 1.0     | 19/08/2022 | @IanoMaciel | Criação do documento de visão |
+| 1.1     | 20/08/2022 | @IanoMaciel | Inserção dos requisitos funcionais e não funcionais | 
+| 1.2     | 21/08/2022 | @IanoMaciel | Construção do Regra de Negócio | 
 
 # 1. Introdução 
 ## 1.1 Propósito do Documento de Requisitos
@@ -60,6 +62,6 @@ Um pouco sobre o projeto **ToDo**. É uma ferramenta que busca auxiliar os usuá
 | Nº | Requisito Associado |  Nome do RN |  Descrição | 
 |----|---------------------|-------------|------------|
 | RN01 | RF01 | New task | O usuário poderá criar novas tarefas, para isso, será necessário informar os seguintes campos: tipo de tarefa, título, descrição, data e hora. | 
-| RN01 | RF02 | Update | O usuário 
+| RN01 | RF02 | Update | O usuário |
 
 ![UC_ToDo](https://user-images.githubusercontent.com/71051791/185547903-6f9db7b3-ddac-491c-b9c5-bee3e7c3b427.png)
