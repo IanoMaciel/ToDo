@@ -55,8 +55,11 @@ Um pouco sobre o projeto **ToDo**. É uma ferramenta que busca auxiliar os usuá
 | RNF05 | A interface em ambos sistemas será de fácil manipulação | Usabilidade | 
 | RNF06 | O sistema deve utilizar o padrão UML 2.0 para a documentação. | Padrões |
 
-
-
 # 4. Regras de Negócio
+
+| Nº | Requisito Associado |  Nome do RN |  Descrição | 
+|----|---------------------|-------------|------------|
+| RN01 | RF01 | New task | O usuário poderá criar novas tarefas, para isso, será necessário informar os seguintes campos: tipo de tarefa, título, descrição, data e hora. | 
+| RN01 | RF02 | Update | O usuário 
 
 ![UC_ToDo](https://user-images.githubusercontent.com/71051791/185547903-6f9db7b3-ddac-491c-b9c5-bee3e7c3b427.png)
