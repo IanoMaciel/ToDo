@@ -62,6 +62,13 @@ Um pouco sobre o projeto **ToDo**. É uma ferramenta que busca auxiliar os usuá
 | Nº | Requisito Associado |  Nome do RN |  Descrição | 
 |----|---------------------|-------------|------------|
 | RN01 | RF01 | New task | O usuário poderá criar novas tarefas, para isso, será necessário informar os seguintes campos: tipo de tarefa, título, descrição, data e hora. | 
-| RN01 | RF02 | Update | O usuário |
+| RN02 | RF02 | Update | Para este caso de uso, o usuário poderá atualizar tarefas existente. |
+| RN03 | RF03 | Delete | Para este caso de uso, o usuário poderá deletar tarefas existente |
+| RN04 | RF04 | List All Task | O usuário poderá listar as tarefas cadastradas |
+| RN05 | RF05 | List Tasks by Today | O usuário poderá listar tarefas do dia |
+| RN06 | RF06 | List Tasks by Week | Para este caso de uso, o usuário poderá listar da semana |
+| RN07 | RF07 | List Tasks by Month | Para este caso de uso, o usuário poderá listar as tarefas do mês. |
+| RN08 | RF08 | List Tasks by Year | Para este caso de uso, o usuário poderá listar as tarefas do ano |
+| RN09 | RF09 | List Overdure  Tasks | Para este caso de uso, o usuário poderá listar tarefas atrasadas, caso exista. |
 
 ![UC_ToDo](https://user-images.githubusercontent.com/71051791/185547903-6f9db7b3-ddac-491c-b9c5-bee3e7c3b427.png)
