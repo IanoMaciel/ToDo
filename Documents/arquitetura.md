@@ -5,7 +5,7 @@
 | 0.1     |16/08/2022| @IanoMaciel | Estrutura inicial e Construção do tópico desenvolvimento do tópico **Introdutório** |
 | 0.2     |17/08/2022| @IanoMaciel | Construção do tópico **Esquemático da Arquitetura** |
 | 0.3     |18/08/2022| @IanoMaciel | Construção do subtópico **Tecnologias** |
-
+| 0.4     |11/09/2022/ | @IanoMaciel | Contrução do tópico de Metas e Restrições da Arquitetura |
 # Introdução 
 ## Objetivo 
 Este documento tem a finalidade de fornecer uma visão arquitetural do Projeto **ToDo.** Além disso, conta com informações que irá auxiliar os desenvolvedores e gestores para compreender a arquitetura utilizada no desenvolvimento, fluxos de informações e as tenclogias envolvidas neste projeto. 
@@ -41,10 +41,23 @@ A camada de *Controller* funciona como intermediário, ou seja, coordenar o envi
 | MongoDB Community Server | é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++. Classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos semelhantes a JSON com esquemas. |
 
 # Metas e Restrições da Arquitetura 
+## Metas 
+- Facilitar no gerenciamento de tarefas;
+- Gerenciar tarefas do dia a dia dos usuários;
+## Retrições 
+- Ter acesso à internet
 
 # Visão dos dados
+## MER 
+### Entidades 
+
+USUÁRIO
+| Atributos | Propriedades | Tipo | Descrição |
+|-----------|--------------|------|-----------|
+| macaddress | Chave obrigatória | String | ID do usuário |
 
 # Caso de Uso 
+![UC_ToDo](https://user-images.githubusercontent.com/71051791/185547903-6f9db7b3-ddac-491c-b9c5-bee3e7c3b427.png)
 
 # Referências Bibliográficas
 [Artefato: Documento de Arquitetura de Software](https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/workproducts/rup_software_architecture_document_C367485C.html)
