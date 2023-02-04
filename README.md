@@ -1,17 +1,54 @@
-# ToDo
+# Nome do Sistema 
 
-## Sobre o repositório
-**ToDo** é uma ferramenta que busca auxiliar as tarefas cotidiana dos uauárioos, com essa ferramenta será permitido que você agende uma nova tarefa além de notificar tarefas atrasadas. Além da aplicação web, ele contará com uma aplicação *mobile* onde será permitido a sincronização de atividades com o *smathphone* do usuário. 
+**To Do**
 
-## layout
+# Sobre o repositório
 
-### WEB
-![image](https://user-images.githubusercontent.com/71051791/184981514-b61f0663-c58f-45f6-8bc1-e841f10103e5.png)
+Este repositório apresenta um sistema desenvolvido durante um curso realizado na plataforma de educação Udemy. **To Do** é uma ferramenta que busca auxiliar as tarefas cotidiana dos usuários a qual é possível realizar agendamentos de tarefas e notificar tarefas atrasadas. A aplicação está disponível tanto para web quando para dispositivos mobile. 
 
-![image](https://user-images.githubusercontent.com/71051791/184981931-ce58cc3d-70c6-4752-a041-27b725d7ba19.png)
+# Tecnologias e Ferramentas Utilizadas
 
-![image](https://user-images.githubusercontent.com/71051791/184982048-07ed09fa-9529-4fa7-bd05-4a5aaa898167.png)
+- [x] **Linguagem de programação:** JavaScript e NodeJs (interpretador V8)
+- [x] **Frameworks:** React e React Native
+- [x] **Componentes:** styled-components
+- [x] **Banco de dados:** MongoDB
+- [x] **Padrão arquitetural:** Model-View-Controller (MVC) e API Rest
+- [x] **Ferramenta para testar API:** Insomnia
+- [x] **Editor de texto:** Visual Studio Code
 
-![image](https://user-images.githubusercontent.com/71051791/184982290-8175311c-d17b-4f1c-acff-fba39142942f.png)
-### Mobile
-Repositório destinado a documentação de requisitos e arquitetura da aplicação ToDo.
+
+# layout da Aplicação
+## Versão Web
+![A6](https://user-images.githubusercontent.com/71051791/216771409-ef49e6b7-c6a5-441f-9729-dcf96af4db6e.png)
+
+## Versão Mobile
+Versão em andmento
+
+# Como Utilizar
+
+Para utilizar este projeto é necessário seguir as etapas abaixo:
+
+**1. Clonar Repositórios**
+    
+    git clone https://github.com/IanoMaciel/to-do-web
+    git clone https://github.com/IanoMaciel/to-do-back-end
+
+**2. Baixar as dependências de ambos os repositórios**
+
+Front da aplicação 
+
+    cd to-do-web //entrar no diretório
+    npm install //baixar as dependências do projeto
+
+Back da aplicação 
+
+    cd to-do-back-end //entrar no diretório
+    npm install //baixar as dependências do projeto
+
+**3. Executar sistema**
+
+No diretório em ambos os projetos, executar o comando:
+
+    npm start
+
+**IMPORTANTE:** possuir o NodeJs e MongoDB instalado
