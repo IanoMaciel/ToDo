@@ -1,13 +1,10 @@
 # Nome do Sistema 
-
 **To Do**
 
 # Sobre o Repositório
-
 Este repositório apresenta um sistema desenvolvido durante um curso realizado na plataforma de educação Udemy. **To Do** é uma ferramenta que busca auxiliar as tarefas cotidiana dos usuários a qual é possível realizar agendamentos de tarefas e notificar tarefas atrasadas. A aplicação está disponível tanto para web quando para dispositivos mobile. 
 
 # Tecnologias e Ferramentas Utilizadas
-
 - [x] **Linguagem de programação:** JavaScript e NodeJs (interpretador V8)
 - [x] **Frameworks:** React e React Native
 - [x] **Componentes:** styled-components
@@ -15,7 +12,6 @@ Este repositório apresenta um sistema desenvolvido durante um curso realizado n
 - [x] **Padrão arquitetural:** Model-View-Controller (MVC) e API Rest
 - [x] **Ferramenta para testar API:** Insomnia
 - [x] **Editor de texto:** Visual Studio Code
-
 
 # layout da Aplicação
 ## Versão Web
@@ -25,7 +21,6 @@ Este repositório apresenta um sistema desenvolvido durante um curso realizado n
 Versão em andmento
 
 # Como Utilizar
-
 Para utilizar este projeto é necessário seguir as etapas abaixo:
 
 **1. Clonar Repositórios**
