@@ -9,7 +9,7 @@ Este repositório apresenta um sistema desenvolvido durante um curso realizado n
 - [x] **Frameworks:** React e React Native
 - [x] **Componentes:** styled-components
 - [x] **Banco de dados:** MongoDB
-- [x] **Padrão arquitetural:** Model-View-Controller (MVC) e API Rest
+- [x] **Padrão arquitetural:** Model-View-Controller (MVC) e Rest API
 - [x] **Ferramenta para testar API:** Insomnia
 - [x] **Editor de texto:** Visual Studio Code
 
